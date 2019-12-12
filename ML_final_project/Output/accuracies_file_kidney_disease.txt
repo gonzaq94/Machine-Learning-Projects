@@ -1,0 +1,2 @@
+Accuracy file for: kidney-disease dataset
+SVM: 0.992

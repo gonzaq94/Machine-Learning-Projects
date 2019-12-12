@@ -1,0 +1,2 @@
+Accuracy file for: bank-note dataset
+Bayes_classifier: 0.735
