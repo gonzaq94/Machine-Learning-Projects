@@ -7,9 +7,9 @@ This is the mini project for the UE Machine Learning 2019.
 ### Authors:
 
 <ul>
+  <li>Gonzalo Quintana</li>
   <li>Tales Marra</li>
   <li>Santiago Agudelo</li>
-  <li>Gonzalo Quintana</li>
   <li>Wang Lei</li>
 </ul>
 
